@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1725305703 source:c:\users\le 501 music\documents\codeblocks\heritage_vehicule\main.cpp
+	"Vehicule.h"
+	"Moto.h"
+	"Voiture.h"
+
+1725195819 source:c:\users\le 501 music\documents\codeblocks\heritage_vehicule\vehicule.cpp
+	<iostream>
+	"Vehicule.h"
+
+1725305958 c:\users\le 501 music\documents\codeblocks\heritage_vehicule\vehicule.h
+	<string>
+
+1725197057 source:c:\users\le 501 music\documents\codeblocks\heritage_vehicule\moto.cpp
+	<iostream>
+	"Moto.h"
+
+1725305958 c:\users\le 501 music\documents\codeblocks\heritage_vehicule\moto.h
+	"Vehicule.h"
+
+1725305497 source:c:\users\le 501 music\documents\codeblocks\heritage_vehicule\voiture.cpp
+	<iostream>
+	"Voiture.h"
+
+1725305958 c:\users\le 501 music\documents\codeblocks\heritage_vehicule\voiture.h
+	"Vehicule.h"
+
